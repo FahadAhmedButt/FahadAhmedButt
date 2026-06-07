@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Fahad Ahmed Butt</h1>
+<h1 align="center">👋 Hi, I'm Fahad Ahmed</h1>
 
 <h3 align="center">💻 Data Analyst | SQL Server | MERN Stack Developer | Python Developer</h3>
 
