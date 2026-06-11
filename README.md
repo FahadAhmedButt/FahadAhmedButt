@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Fahad Ahmed</h1>
 
-<h3 align="center">💻 Data Analyst | SQL Server | MERN Stack Developer | Python Developer</h3>
+<h3 align="center">💻 Data Analyst | SQL Server | MERN Stack Developer | Python Developer | Angular Developer</h3>
 
 ---
 
@@ -13,6 +13,9 @@
   <a href="mailto:fahadahmed1448@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://portfolio-yk52.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </p>
 
